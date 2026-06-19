@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 400,
       "messages": [
         "I'm a regular player",
         "Subscribe to SMPvillage!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        ""
       ]
     },
     "chat-log": true,
